@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![Metrics](https://github.com/addio/addio/blob/master/github-metrics.svg)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=addio)](https://github.com/anuraghazra/github-readme-stats)
 [![addio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=addio)](https://github.com/anuraghazra/github-readme-stats)
